@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PixabayCloneUsingReactJS/static/css/main.5e3a0936.css",
+    "main.js": "/PixabayCloneUsingReactJS/static/js/main.b36e5232.js",
+    "static/js/787.a9d0d803.chunk.js": "/PixabayCloneUsingReactJS/static/js/787.a9d0d803.chunk.js",
+    "index.html": "/PixabayCloneUsingReactJS/index.html",
+    "main.5e3a0936.css.map": "/PixabayCloneUsingReactJS/static/css/main.5e3a0936.css.map",
+    "main.b36e5232.js.map": "/PixabayCloneUsingReactJS/static/js/main.b36e5232.js.map",
+    "787.a9d0d803.chunk.js.map": "/PixabayCloneUsingReactJS/static/js/787.a9d0d803.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e3a0936.css",
+    "static/js/main.b36e5232.js"
+  ]
+}
